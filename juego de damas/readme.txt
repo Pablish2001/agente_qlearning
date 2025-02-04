@@ -1,3 +1,12 @@
+librerias utilizadas 
+random
+pygame
+sys
+pickle
+copy
+
+IMPORTANTE para el funcionamiento del codigo
+
 reglas del juego
 para iniciar, ejeuctar el archivo qlearning2.py
 
